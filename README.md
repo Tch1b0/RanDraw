@@ -1,3 +1,2 @@
 # RanDraw
-With RanDraw The screen gets filled
-with different colors in a loop.
+Randraw is a program, which fills the screen with some colorful boxes.
